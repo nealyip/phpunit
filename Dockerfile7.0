@@ -1,5 +1,5 @@
 # PHPUnit Docker Container.
-FROM php:7.1-alpine
+FROM php:7.0-alpine
 MAINTAINER Neal Yip <dev.nealyip@gmail.com>
 
 WORKDIR /tmp
